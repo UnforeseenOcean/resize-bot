@@ -1,0 +1,10 @@
+{
+	"serverWhitelist": [],
+	"serverBlacklist": [],
+	"channelWhitelist": ["396641051374256128"],
+	"channelBlacklist": [],
+	"targetSize": [
+		null,
+		200
+	]
+}

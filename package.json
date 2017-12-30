@@ -1,0 +1,24 @@
+{
+  "name": "resize-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windsdon/resize-bot.git"
+  },
+  "author": "Windsdon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Windsdon/resize-bot/issues"
+  },
+  "homepage": "https://github.com/Windsdon/resize-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "gm": "^1.23.1",
+    "request": "^2.83.0"
+  }
+}
